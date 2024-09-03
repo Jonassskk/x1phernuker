@@ -3,7 +3,6 @@
 X1pher Nuker is one of the best nukers on the market for FREE!
 
 ![Github Stars](https://img.shields.io/github/stars/Jonassskk/x1phernuker?color=red&logoColor=black) 
-![Github Commit Activity](https://img.shields.io/github/commit-activity/total/Jonassskk/x1phernuker?color=ff0000&logoColor=000001)
 ![Last Commit](https://img.shields.io/github/last-commit/Jonassskk/x1phernuker?color=ff0000&logoColor=000001)
 ![image](https://github.com/user-attachments/assets/ecff9472-1500-42ee-b8ee-6f2f1c7da540) 
 
